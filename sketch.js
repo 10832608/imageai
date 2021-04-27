@@ -42,11 +42,7 @@ function setup() {
 
     }   
 
-    //video: {
-
-      //facingMode: "user"
-
-    //}
+  
 
   };
   
